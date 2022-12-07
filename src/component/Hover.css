@@ -1,0 +1,8 @@
+.hoverText {
+    border: 1px solid red;
+    font-size: 18px;
+    color: black;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+}
